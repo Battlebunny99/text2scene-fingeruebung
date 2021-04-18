@@ -1,0 +1,1 @@
+Dieses Repository ist für das Text2Scene Praktikum im Sommersemester 2021.
