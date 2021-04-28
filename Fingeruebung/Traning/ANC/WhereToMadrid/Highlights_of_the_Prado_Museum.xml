@@ -439,7 +439,6 @@
 <MOVELINK id="mvl11" fromID="m6" fromText="catch" toID="se32" toText="you" trigger="m6" source="" goal="pl51" midPoint="" mover="se32" landmark="" goal_reached="YES" pathID="" motion_signalID="ms7, ms8" comment="" />
 <MEASURELINK id="ml0" fromID="pl62" fromText="space" toID="pl60" toText="Museo del Prado" trajector="pl62" landmark="pl60" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
 <MEASURELINK id="ml1" fromID="pl34" fromText="palace" toID="pl34" toText="palace" trajector="pl34" landmark="pl34" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
-<METALINK id="metal0" fromID="pl28" fromText="" toID="pl0" toText="here" objectID1="pl28" objectID2="pl0" relType="COREFERENCE" comment="" />
 <METALINK id="metal1" fromID="pl28" fromText="" toID="pl27" toText="annex" objectID1="pl28" objectID2="pl27" relType="COREFERENCE" comment="" />
 <METALINK id="metal2" fromID="se21" fromText="" toID="se27" toText="Guer­nica" objectID1="se21" objectID2="se27" relType="COREFERENCE" comment="" />
 <METALINK id="metal3" fromID="se42" fromText="" toID="se32" toText="you" objectID1="se42" objectID2="se32" relType="COREFERENCE" comment="" />
